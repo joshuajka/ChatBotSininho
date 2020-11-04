@@ -1,0 +1,87 @@
+#logoImg{
+	width: 50%;
+	margin: 0 auto;
+}
+
+.tamanho{
+	height: 250px;
+	width: 600px;
+}
+
+#logo h1{
+	width: 50%;
+	margin: 0 auto;
+}
+
+#container{
+	width: 100%; 
+	margin: 0 auto;
+	align-items: center;
+	text-align: center;
+}
+
+#principal{
+	width: 100%;
+}
+
+header{
+	padding:  15px 0px; 
+	height: 55px; 
+}
+
+nav ul{
+	list-style: none; 
+	margin: 20px; 
+	float: right;
+
+}
+
+nav ul li{
+	float: left;
+}
+
+a:link, a:active, a:visited{
+	text-decoration: none;  
+}
+
+a:hover{
+	color: #227115;
+}
+
+nav ul li a:link{
+	display: block; 
+	margin-right: 25px;
+
+} 
+
+nav ul li a:hover{
+	color: red;
+} 
+
+
+a,h1,p,h5{
+	font-family: cursive;
+}
+
+h1{
+	margin-left: 20px;
+	margin-top: 7px;
+}
+
+#texto{
+	text-align: center;
+	width: 50%;
+    margin: 0 auto;
+}
+
+
+#rodape{
+	text-align: center;
+	margin-top: 5px;
+	width:  100%; 
+	margin: 0 auto; 
+} 
+
+#container-rodape{
+	margin-top: 5px;
+} 
